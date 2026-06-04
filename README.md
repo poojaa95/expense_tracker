@@ -1,6 +1,6 @@
 # Spendlens — Personal Expense Tracker
 A clean, dark-themed expense tracker web app built with vanilla HTML, CSS and JavaScript. Supports Google Sign-In, cloud sync across devices, budget tracking, and spending trends.
-## Live demo: https://your-site.netlify.app (replace with your Netlify URL)
+## Live demo: https://expensetracker-spendlenss.netlify.app/
 
 ## Features
 - Google Sign-In — login with your Google account, no password needed
@@ -31,4 +31,4 @@ A clean, dark-themed expense tracker web app built with vanilla HTML, CSS and Ja
 ## Option 2 — Local server
 -bashnpx serve: .
 - open http://localhost:3000
--Then add localhost:3000 to your Supabase redirect URLs.
+- Then add localhost:3000 to your Supabase redirect URLs.
